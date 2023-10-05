@@ -17,6 +17,7 @@ Also, read how it was done in [our blog](https://yalantis.com/blog/star-wars-the
 ##Requirements
 - Android SDK 15+
 - OpenGL ES 2.0+
+asdasdasdasd
 
 ##Usage
 
